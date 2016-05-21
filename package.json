@@ -18,5 +18,6 @@
   "homepage": "https://github.com/dly9014/helloAlexa#readme",
   "dependencies": {
     "alexa-app": "^2.3.3"
-  }
+  },
+  "devDependencies": {}
 }
